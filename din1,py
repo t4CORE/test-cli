@@ -1,0 +1,20 @@
+nput(Promt)
+1.8
+ * +32
+9
+>>> str(TC)
+'9'
+>>> 9 * 1.8
+16.2
+>>> 16.2 + 32
+48.2
+>>> # esto convierte 9Cº Fº:48.2
+>>> TC = 9
+>>> tC = +32
+>>> tF = 1.8
+>>> TC * tF
+16.2
+>>> tf = 16.2
+>>> tf + tC
+48.2oala los dedos al golfo
+
